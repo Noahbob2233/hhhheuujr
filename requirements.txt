@@ -1,2 +1,9 @@
 discord
 asyncio
+Names
+Requests
+Discord.py
+StockXSdk
+bs4
+Chatterbot
+Hastebin
