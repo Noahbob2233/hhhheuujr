@@ -6,4 +6,5 @@ Discord.py
 stockx-py-sdk==0.0.2
 bs4
 Chatterbot
-Hastebin.py==0.2
+hastebin-client=0.1.2
+
